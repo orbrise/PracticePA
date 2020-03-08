@@ -1,0 +1,6 @@
+.env
+.htaccess
+.idea/.gitignore
+index.php
+app/Http/Controllers/Api/v1/CompanyController/CompanyController.php.orig
+routes/api.php.orig
